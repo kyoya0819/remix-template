@@ -1,0 +1,14 @@
+@import url("reset/reset.css");
+
+body {
+    font-family: "Noto Sans JP", "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
+    line-height: 1.75;
+    color: #fff;
+    background: color-mix(in srgb, #000 50%, #111);
+}
+
+.inner {
+    width: 92.5%;
+    max-width: 1500px;
+    margin: 0 auto;
+}
