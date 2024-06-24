@@ -1607,13 +1607,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@studio-freight/lenis@npm:^1.0.39":
-  version: 1.0.39
-  resolution: "@studio-freight/lenis@npm:1.0.39"
-  checksum: 10c0/6ae7fc4242f27ea1e8ef7df6f0f59aa98499ee522136976c21e8ba96fdbf9d87fa1bb2dee5baee2c616d9b7b0d597ab8243334e511fa692f00e4791f8fa9960c
-  languageName: node
-  linkType: hard
-
 "@types/acorn@npm:^4.0.0":
   version: 4.0.6
   resolution: "@types/acorn@npm:4.0.6"
@@ -7523,7 +7516,6 @@ __metadata:
     "@remix-run/css-bundle": "npm:^2.8.1"
     "@remix-run/dev": "npm:^2.8.1"
     "@remix-run/react": "npm:^2.8.1"
-    "@studio-freight/lenis": "npm:^1.0.39"
     "@types/react": "npm:^18.2.20"
     "@types/react-dom": "npm:^18.2.7"
     "@typescript-eslint/eslint-plugin": "npm:^7.1.1"
